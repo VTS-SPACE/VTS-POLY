@@ -3,7 +3,7 @@
 (() => {
     "use strict";
 
-    const APK_URL = 'https://t.me/c/2919044362/7';
+    const APK_URL = 'https://t.me/vtspoly';
     const SAVE_FILENAME = 'VTS-POLY-v1.0.apk';
     const VERSION = 'v1.0';
     const RELEASE_DATE = '2025-09-02';
